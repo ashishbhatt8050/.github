@@ -1,58 +1,33 @@
-# Scientific Computing Research Group
-### Department of Mathematics | Vellore Institute of Technology (VIT), Vellore
+# Scientific Computing
 
-The **Scientific Computing Research Group** advances computational mathematics and data-driven modeling for solving complex scientific and engineering problems. Our work is anchored in the **Advanced Computing Research Laboratory**, a DST-FIST supported facility established under the Department of Science and Technology, Government of India (2024–2029, Grant Outlay: ₹2.71 Cr).
+### Research Group · Department of Mathematics · VIT Vellore
 
-We focus on the development and application of high-performance numerical methods, scientific machine learning, and interdisciplinary computational techniques to address problems in physics, engineering, biology, and applied mathematics.
+**Mathematics, computation, and scientific discovery.**
 
----
+We develop and apply computational methods to understand complex systems across applied mathematics, engineering, and data science. Our work brings together numerical analysis, high-performance computing, and scientific machine learning.
 
-### 🧠 Research Vision
-
-Our group works at the interface of mathematics, computation, and scientific discovery. We develop efficient, reliable, and scalable algorithms for:
-
-- High-performance scientific computing
-- Numerical simulation of complex dynamical systems
-- Model order reduction and reduced-order modeling
-- Scientific machine learning and physics-informed AI
-- Computational fluid dynamics and multiscale modeling
-- Optimization, uncertainty quantification, and inverse problems
+> Based in the Advanced Computing Research Laboratory, supported by the **DST-FIST programme** of the Department of Science and Technology, Government of India (2024–2029; grant outlay: ₹2.71 Cr).
 
 ---
 
-### 🖥️ High-Performance Computing Infrastructure
+## Research
 
-The group operates within a dedicated HPC environment designed for large-scale simulation, matrix computation, and AI-assisted scientific workflows:
+- **Scientific computing & numerical methods** — robust algorithms for demanding scientific problems
+- **Geometric integration & dynamical systems** — structure-aware simulation and analysis
+- **Model order reduction** — efficient reduced models for complex systems
+- **Scientific machine learning** — including physics-informed neural networks (PINNs)
+- **Computational modeling** — fluid dynamics, multiphysics, and molecular dynamics
 
-- **Master Node:** Cluster orchestration, job scheduling, and high-throughput data management
-- **Compute Nodes:** Multi-node systems optimized for parallel numerical solvers, PDE simulations, and deep learning pipelines
-- **Research Workflow:** Large-scale scientific computing, data-intensive modeling, and reproducible computational experiments
+## Research Infrastructure
 
----
+Our multi-node high-performance computing facility supports parallel computing, large-scale matrix computations, numerical simulation, and deep-learning workflows. The infrastructure includes a master node for cluster management and scheduling, alongside compute nodes configured for research workloads.
 
-### 🎯 Core Research Themes
+## Collaborate
 
-- Scientific Computing and Geometric Integration
-- Model Order Reduction (MOR) for Dynamical Systems
-- Scientific Machine Learning (SciML) and Physics-Informed Neural Networks (PINNs)
-- Computational Fluid Dynamics and Multiphysics Modeling
-- Molecular Dynamics and Large-Scale Simulation
+We welcome research collaborations with faculty, students, and visiting scholars. Compute allocations and visiting workspace may be arranged for aligned projects, subject to availability.
 
----
-
-### 🤝 Collaborations and Opportunities
-
-We actively collaborate with researchers, students, and visiting scholars across academia and industry. Opportunities include:
-
-- Research collaborations on computational modeling and simulation
-- HPC resource allocation for aligned projects
-- Student internships and joint research mentorship
-- Visiting faculty, postdoctoral, and scholar engagement
-
-📩 **Contact:** For collaboration requests, compute access, or visiting opportunities, contact **Dr. Ashish Bhatt (Co-PI)** at [ashish.bhatt@vit.ac.in](mailto:ashish.bhatt@vit.ac.in).
+**Get in touch:** [Dr. Ashish Bhatt](mailto:ashish.bhatt@vit.ac.in) · Co-PI
 
 ---
 
-### 🔬 Research Environment
-
-The group is housed in the **Department of Mathematics**, **School of Advanced Sciences**, **VIT Vellore**, and is committed to building a strong research culture that combines rigorous mathematical foundations with practical scientific impact.
+**Department of Mathematics** · School of Advanced Sciences · Vellore Institute of Technology, Vellore
