@@ -1,33 +1,58 @@
-# Advanced Computing Research Laboratory (DST-FIST)
+# Scientific Computing Research Group
 ### Department of Mathematics | Vellore Institute of Technology (VIT), Vellore
 
-The **Advanced Computing Research Laboratory** is a specialized high-performance computational facility established under the prestigious **DST-FIST** (Fund for Improvement of S&T Infrastructure) scheme (2024–2029, Grant Outlay: ₹2.71 Cr), awarded by the Department of Science and Technology, Government of India.
+The **Scientific Computing Research Group** advances computational mathematics and data-driven modeling for solving complex scientific and engineering problems. Our work is anchored in the **Advanced Computing Research Laboratory**, a DST-FIST supported facility established under the Department of Science and Technology, Government of India (2024–2029, Grant Outlay: ₹2.71 Cr).
 
-Hosted within the Department of Mathematics (School of Advanced Sciences) at VIT Vellore, the lab supports compute-intensive research at the intersection of applied mathematics, engineering, and data science.
+We focus on the development and application of high-performance numerical methods, scientific machine learning, and interdisciplinary computational techniques to address problems in physics, engineering, biology, and applied mathematics.
 
 ---
 
-### 🖥️ High-Performance Computing (HPC) Infrastructure
+### 🧠 Research Vision
 
-The lab hosts a dedicated multi-node HPC cluster tailored for parallel computing, large-scale matrix computations, and deep learning workflows:
+Our group works at the interface of mathematics, computation, and scientific discovery. We develop efficient, reliable, and scalable algorithms for:
 
-- **Master Node:** 2U rack dual-processor (DP) server solution for cluster management, job scheduling, and high-throughput data staging.
-- **Compute Cluster:** 2U Quattro multi-node server configurations optimized for multithreaded numerical simulations, large-scale PDEs, and scientific machine learning (SciML).
+- High-performance scientific computing
+- Numerical simulation of complex dynamical systems
+- Model order reduction and reduced-order modeling
+- Scientific machine learning and physics-informed AI
+- Computational fluid dynamics and multiscale modeling
+- Optimization, uncertainty quantification, and inverse problems
 
-### 🎯 Research Focus Areas
+---
 
-- Scientific Computing & Geometric Integration
-- Model Order Reduction (MOR) for dynamical systems
+### 🖥️ High-Performance Computing Infrastructure
+
+The group operates within a dedicated HPC environment designed for large-scale simulation, matrix computation, and AI-assisted scientific workflows:
+
+- **Master Node:** Cluster orchestration, job scheduling, and high-throughput data management
+- **Compute Nodes:** Multi-node systems optimized for parallel numerical solvers, PDE simulations, and deep learning pipelines
+- **Research Workflow:** Large-scale scientific computing, data-intensive modeling, and reproducible computational experiments
+
+---
+
+### 🎯 Core Research Themes
+
+- Scientific Computing and Geometric Integration
+- Model Order Reduction (MOR) for Dynamical Systems
 - Scientific Machine Learning (SciML) and Physics-Informed Neural Networks (PINNs)
-- Computational Fluid Dynamics & Molecular Dynamics
+- Computational Fluid Dynamics and Multiphysics Modeling
+- Molecular Dynamics and Large-Scale Simulation
 
 ---
 
-### 🤝 Research Collaboration & Resource Access
+### 🤝 Collaborations and Opportunities
 
-We welcome interdisciplinary collaborations with researchers, graduate students, and visiting scholars from academic and research institutions:
+We actively collaborate with researchers, students, and visiting scholars across academia and industry. Opportunities include:
 
-- **HPC Compute Allocations:** Batch compute time and node allocations on the cluster can be scheduled for aligned research projects upon reasonable request.
-- **Visiting Office & Lab Space:** Dedicated on-campus desk and lab space is available for visiting researchers, student interns, and project collaborators working on joint initiatives.
+- Research collaborations on computational modeling and simulation
+- HPC resource allocation for aligned projects
+- Student internships and joint research mentorship
+- Visiting faculty, postdoctoral, and scholar engagement
 
-📩 **Inquiries:** To discuss collaborative opportunities or request compute/office access, please contact **Dr. Ashish Bhatt (Co-PI)** at [ashish.bhatt@vit.ac.in](mailto:ashish.bhatt@vit.ac.in).
+📩 **Contact:** For collaboration requests, compute access, or visiting opportunities, contact **Dr. Ashish Bhatt (Co-PI)** at [ashish.bhatt@vit.ac.in](mailto:ashish.bhatt@vit.ac.in).
+
+---
+
+### 🔬 Research Environment
+
+The group is housed in the **Department of Mathematics**, **School of Advanced Sciences**, **VIT Vellore**, and is committed to building a strong research culture that combines rigorous mathematical foundations with practical scientific impact.
